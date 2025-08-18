@@ -1,4 +1,6 @@
-<h1 align="center"> 👋 Hello, I'm Rev</h1>
+<h1 align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Rev" alt="Typing SVG" /></a>
+</h1>
 Halo! Aku seorang pelajar SMK yang memiliki minat besar di bidang backend development. Aku suka menghabiskan waktu untuk ngoding di sisi backend karena aku tertarik dengan bagaimana logika dan struktur sebuah aplikasi dibangun. Selain itu, aku juga senang mendalami berbagai hal yang berhubungan dengan backend, terutama ketika menemukan sesuatu yang terlihat menarik untuk dieksplorasi lebih jauh. Aku selalu berusaha untuk terus belajar dan mengasah kemampuan agar bisa berkembang di dunia pemrograman.
 
 <h1 align="center">
@@ -24,3 +26,9 @@ Halo! Aku seorang pelajar SMK yang memiliki minat besar di bidang backend develo
 - Tools: &nbsp;
   
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+code+and+learn+together!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
