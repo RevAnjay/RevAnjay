@@ -11,8 +11,8 @@ Halo! Aku seorang pelajar SMK yang memiliki minat besar di bidang backend develo
 ### 📊 Github Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RevAnjay&show_icons=true&theme=algolia&bg_color=00000000" width="400"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevAnjay&layout=compact&theme=algolia&bg_color=00000000" width="305"/>
+  <img src="https://github-readme-stats-mu-ochre.vercel.app/api?username=RevAnjay&show_icons=true&theme=algolia&bg_color=00000000" width="400"/> 
+  <img src="https://github-readme-stats-mu-ochre.vercel.app/api/top-langs/?username=RevAnjay&layout=compact&theme=algolia&bg_color=00000000" width="305"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif" align="right" width="250"/>
