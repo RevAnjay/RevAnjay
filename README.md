@@ -1,31 +1,71 @@
 <h1 align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Rev" alt="Typing SVG" /></a>
-</h1>
-Halo! Aku seorang pelajar SMK yang memiliki minat besar di bidang backend development. Aku suka menghabiskan waktu untuk ngoding di sisi backend karena aku tertarik dengan bagaimana logika dan struktur sebuah aplikasi dibangun. Selain itu, aku juga senang mendalami berbagai hal yang berhubungan dengan backend, terutama ketika menemukan sesuatu yang terlihat menarik untuk dieksplorasi lebih jauh. Aku selalu berusaha untuk terus belajar dan mengasah kemampuan agar bisa berkembang di dunia pemrograman.
-
-<h1 align="center">
-  <img src="https://telegra.ph/file/a673fe9f094ba1add1883.gif" width="250"/> <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Rev" alt="Typing SVG" />
+  </a>
 </h1>
 
-[<img src="[https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white](https://camo.githubusercontent.com/aa9359eb35f92d11bb47bff9b17b39bb9a04fc3003ff6b9b9a87ff2f8e63f390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974)">](https://instagram.com/noru.cc)
-### 📊 Github Stats
-
-<p>
-  <img src="https://github-readme-stats-mu-ochre.vercel.app/api?username=RevAnjay&show_icons=true&theme=algolia&bg_color=00000000" width="400"/> 
-  <img src="https://github-readme-stats-mu-ochre.vercel.app/api/top-langs/?username=RevAnjay&layout=compact&theme=algolia&bg_color=00000000" width="305"/>
+<p align="center">
+  <img src="https://telegra.ph/file/a673fe9f094ba1add1883.gif" width="200" alt="Anime Coding GIF"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif" align="right" width="250"/>
+<p align="center">
+  <strong>Seorang pelajar SMK jurusan TKJ yang sangat bersemangat di bidang Backend Development. 🚀</strong><br>
+  <em>Aku suka ngoding di sisi backend karena tertarik dengan logika dan struktur di balik sebuah aplikasi. Aku selalu senang mengeksplorasi hal baru dan terus mengasah skill agar bisa berkembang menjadi Software Engineer yang handal.</em>
+</p>
 
-### ℹ &nbsp;Personal Stuffs
-- 💻 I'm currently studying 🚀.
-- 🔭 I'm currently working on my side project.
-- Learning Language(s): &nbsp;
+---
 
-	[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-- Tools: &nbsp;
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#) [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+### 💻 &nbsp;Personal Stuffs
+- 🏫 I'm currently studying as a vocational high school student majoring in Computer and Network Engineering (TKJ).
+- 🔭 I'm currently working on my side projects and honing my backend skills.
+- 🌱 I’m currently learning deeper into API development and database architecture.
+
+<img src="https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif" align="right" width="250" alt="Sun GIF"/>
+
+### 🛠️ &nbsp;Tech Stack & Tools
+
+**Languages & Frameworks:**
+<br>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](#)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?style=flat&logo=css&logoColor=fff)](#)
+
+**Databases:**
+<br>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)](#)
+
+**Tools & Others:**
+<br>
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](#)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)](#)
+
+---
+
+### 🏆 &nbsp;Prestasi & Pencapaian
+- 🎖️ **Finalis / Perwakilan Kabupaten** - Lomba Kompetensi Siswa (LKS) Tingkat Provinsi Jawa Timur 2025
+- 🥇 **Juara 1** - Lomba Kompetensi Siswa (LKS) Tingkat Kabupaten Tulungagung 2026
+
+---
+
+### 📊 &nbsp;GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats-mu-ochre.vercel.app/api?username=RevAnjay&show_icons=true&theme=algolia&bg_color=00000000" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-mu-ochre.vercel.app/api/top-langs/?username=RevAnjay&layout=compact&theme=algolia&bg_color=00000000" height="150" alt="Top Languages"/>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
